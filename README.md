@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Cristian de Paz Comendador] 👋
+# ¡Hola! Soy Cristian de Paz Comendador 👋
 
 Técnico en **Administración de Sistemas Informáticos en Red (ASIR)** y **Mantenimiento Electrónico**, especializándome en el mundo de la **Ciberseguridad**. 
 
@@ -17,6 +17,6 @@ Mi perfil combina una sólida base en hardware y diagnóstico físico con la ges
 ## 🌐 Conecta conmigo
 
 ¿Quieres saber más sobre mi trayectoria o ver mi CV completo? 
-Encuéntrame en **[LinkedIn](https://www.linkedin.com/in/cristian-de-paz-98248a410/)** o escríbeme a **[cristiandepaz2001@gmail.com]**.
+Encuéntrame en **[LinkedIn](https://www.linkedin.com/in/cristian-de-paz-98248a410/)** o escríbeme a **cristiandepaz2001@gmail.com**.
 
 
